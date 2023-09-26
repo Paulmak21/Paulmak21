@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/grozescu21" target="blank"><img src="https://img.shields.io/twitter/follow/grozescu21?logo=twitter&style=for-the-badge" alt="grozescu21" /></a> </p>
 
-<img align="right" alt="coding" width="320" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="coding" width="320" src="[[https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)">
 - 🌱 I’m currently learning at **4GeeksAcademy**
 
 - 💬 Ask me about **JS, HTML5, CSS3**
