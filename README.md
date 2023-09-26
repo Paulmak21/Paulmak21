@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Adrian Grozescu</h1>
 <h3 align="center">Passionate about Crafting Digital Solutions</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="coding" width="320" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
  
 - 🌱 I’m currently learning at **4GeeksAcademy**
 
