@@ -1,5 +1,5 @@
-![MASTERHEAD](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Paul Adrian Grozescu</h1>
+![MASTERHEAD](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h3 align="center">Passionate about Crafting Digital Solutions</h3>
 
 <h2>About Me 🪪</h2>
