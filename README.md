@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul Adrian Grozescu</h1>
 <h3 align="center">Passionate about Crafting Digital Solutions</h3>
-(https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
+https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif
 
 <h2>About Me 🪪</h2>
 <p>💼 As a Full-stack Developer, I thrive on the challenge of designing and building robust applications that solve real-world problems. My journey into the world of coding has been a rewarding one, driven by an insatiable curiosity and a desire to stay at the forefront of technological advancements.</p>
