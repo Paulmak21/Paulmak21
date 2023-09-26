@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/grozescu21" target="blank"><img src="https://img.shields.io/twitter/follow/grozescu21?logo=twitter&style=for-the-badge" alt="grozescu21" /></a> </p>
 
-<h3
 
 - 🌱 I’m currently learning at **4GeeksAcademy**
 
