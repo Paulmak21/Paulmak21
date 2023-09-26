@@ -1,8 +1,6 @@
 ![MASTERHEAD](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Paul Adrian Grozescu</h1>
 <h3 align="center">Passionate about Crafting Digital Solutions</h3>
-<img align="right" alt="coding" width="320" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
-
 
 <h2>About Me 🪪</h2>
 <p>💼 As a Full-stack Developer, I thrive on the challenge of designing and building robust applications that solve real-world problems. My journey into the world of coding has been a rewarding one, driven by an insatiable curiosity and a desire to stay at the forefront of technological advancements.</p>
@@ -13,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/grozescu21" target="blank"><img src="https://img.shields.io/twitter/follow/grozescu21?logo=twitter&style=for-the-badge" alt="grozescu21" /></a> </p>
 
-
+<img align="right" alt="coding" width="320" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
 - 🌱 I’m currently learning at **4GeeksAcademy**
 
 - 💬 Ask me about **JS, HTML5, CSS3**
