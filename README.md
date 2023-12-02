@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://twitter.com/grozescu21" target="blank"><img src="https://img.shields.io/twitter/follow/grozescu21?logo=twitter&style=for-the-badge" alt="grozescu21" /></a> </p>
 
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
-- 🌱 I’m currently learning at <a href="https://4geeks.com/">4GeeksAcademy</a>
+- 🌱 Self-taught Full-Stack Developer, graduated at <a href="https://4geeks.com/">4GeeksAcademy</a>
 
-- 💬 Ask me about **JS, HTML5, CSS3**
+- 💬 Ask me about **JS, Python, SQL...**
 
 - 📫 How to reach me **paulgrozescu@gmail.com**
 
